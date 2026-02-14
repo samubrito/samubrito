@@ -1,7 +1,5 @@
 ### Eu sou o Samuel Brito, engenheiro de controle e automação e nesse espaço compartilho meus projetos de dados e engenharia.
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY256OXdxczl6NHZnNGxhd2RrODBuZXlrcTd1dTdwbTZkNnVuOXB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="400px" alt="commit gif looping" />
-</p>
+
 <!--
 **samubrito/samubrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +34,6 @@ Here are some ideas to get you started:
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY256OXdxczl6NHZnNGxhd2RrODBuZXlrcTd1dTdwbTZkNnVuOXB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="400px" alt="commit gif looping" />
+</p>
