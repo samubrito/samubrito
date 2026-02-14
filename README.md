@@ -1,4 +1,5 @@
-### Eu sou o Samuel Brito, engenheiro de controle e automação e nesse espaço compartilho meus projetos de dados e engenharia.
+### Eu sou o Samuel Brito, engenheiro de controle e automação 
+Nesse espaço compartilho meus projetos de dados e engenharia.
 
 <!--
 **samubrito/samubrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
