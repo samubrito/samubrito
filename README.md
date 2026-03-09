@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Samu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-  <img align="center" alt="Samu-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/[tecnologia]/[tecnologia]-[variante].svg">
+  <img align="center" alt="Samu-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Samu-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="Samu-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
