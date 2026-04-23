@@ -23,28 +23,28 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samubrito&layout=compact&langs_count=7&theme=dark"/>
 </div> -->
 <p align="left">
-  <img align="middle" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg">
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
   
-  <img align="middle" alt="Samu-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="vertical-align: middle; display: inline-block;" alt="Samu-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;
 </p>
 
