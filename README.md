@@ -23,89 +23,29 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samubrito&layout=compact&langs_count=7&theme=dark"/>
 </div> -->
 <p align="left">
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-     width="50"
-     alt="Python"
-     align="middle"
-     />
+  <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg"
-     width="95"
-     alt="Matplotlib"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
-     width="50"
-     alt="Pandas"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
-     width="95"
-     alt="Numpy"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg">
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-     width="65"
-     alt="SQL"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-     width="50"
-     alt="Github"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-     width="50"
-     alt="Git"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
-    <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
-     width="50"
-     alt="Github_codespace"
-     align="middle"
-     />
+  
+  <img align="center" alt="Samu-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-     width="50"
-     alt="Vscode"
-     align="middle"
-     />
-  &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-     width="50"
-     alt="Html5"
-     align="middle"
-     />
-  &nbsp;&nbsp;
-  <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-     width="50"
-     alt="Css3"
-     align="middle"
-     />
-&nbsp;&nbsp;
-    <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
-     width="95"
-     alt="Apache"
-     align="middle"
-     />
 </p>
 
 
@@ -126,14 +66,9 @@ Here are some ideas to get you started:
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Samu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-  <img align="center" alt="Samu-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Samu-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="Samu-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samu-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   
+  
+  
   
 ##
  
